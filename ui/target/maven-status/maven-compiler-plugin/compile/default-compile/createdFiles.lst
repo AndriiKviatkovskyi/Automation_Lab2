@@ -1,0 +1,3 @@
+org\kviat\taskmanager\ui\TaskManagerApp.class
+org\kviat\taskmanager\ui\TaskManagerApp$TaskRenderer.class
+org\kviat\taskmanager\ui\TaskManagerApp$DateLabelFormatter.class
